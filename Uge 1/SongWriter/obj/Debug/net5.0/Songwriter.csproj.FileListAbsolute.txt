@@ -1,0 +1,16 @@
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\Songwriter.exe
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\Songwriter.deps.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\Songwriter.runtimeconfig.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\Songwriter.runtimeconfig.dev.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\Songwriter.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\ref\Songwriter.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\bin\Debug\net5.0\Songwriter.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.csproj.AssemblyReference.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.AssemblyInfoInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.AssemblyInfo.cs
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.csproj.CoreCompileInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\ref\Songwriter.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Songwriter\obj\Debug\net5.0\Songwriter.genruntimeconfig.cache

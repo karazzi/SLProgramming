@@ -1,0 +1,16 @@
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\Palindromes.exe
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\Palindromes.deps.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.dev.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\Palindromes.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\ref\Palindromes.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\bin\Debug\net5.0\Palindromes.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfoInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfo.cs
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.csproj.CoreCompileInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\ref\Palindromes.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.genruntimeconfig.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\SongWriter\Palindromes\obj\Debug\net5.0\Palindromes.csproj.AssemblyReference.cache
