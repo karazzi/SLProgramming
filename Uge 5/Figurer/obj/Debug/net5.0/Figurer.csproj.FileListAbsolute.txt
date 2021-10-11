@@ -1,0 +1,16 @@
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\Figurer.exe
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\Figurer.deps.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\Figurer.runtimeconfig.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\Figurer.runtimeconfig.dev.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\Figurer.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\ref\Figurer.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\bin\Debug\net5.0\Figurer.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.csproj.AssemblyReference.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.AssemblyInfoInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.AssemblyInfo.cs
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.csproj.CoreCompileInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\ref\Figurer.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Figurer\obj\Debug\net5.0\Figurer.genruntimeconfig.cache
