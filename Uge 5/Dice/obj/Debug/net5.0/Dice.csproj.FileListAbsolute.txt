@@ -1,0 +1,16 @@
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\Dice.exe
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\Dice.deps.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\Dice.runtimeconfig.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\Dice.runtimeconfig.dev.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\Dice.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\ref\Dice.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\bin\Debug\net5.0\Dice.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.csproj.AssemblyReference.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.AssemblyInfoInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.AssemblyInfo.cs
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.csproj.CoreCompileInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\ref\Dice.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Dice\obj\Debug\net5.0\Dice.genruntimeconfig.cache

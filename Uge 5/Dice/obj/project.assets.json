@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\fstee\\OneDrive\\Smartlearning\\Videregående Programmering\\Programmer\\Uge 3\\Palindromes\\Palindromes.csproj",
-      "projectName": "Palindromes",
-      "projectPath": "D:\\Users\\fstee\\OneDrive\\Smartlearning\\Videregående Programmering\\Programmer\\Uge 3\\Palindromes\\Palindromes.csproj",
+      "projectUniqueName": "D:\\Users\\fstee\\OneDrive\\Smartlearning\\Videregående Programmering\\Programmer\\Uge 5\\Dice\\Dice.csproj",
+      "projectName": "Dice",
+      "projectPath": "D:\\Users\\fstee\\OneDrive\\Smartlearning\\Videregående Programmering\\Programmer\\Uge 5\\Dice\\Dice.csproj",
       "packagesPath": "C:\\Users\\fstee\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\fstee\\OneDrive\\Smartlearning\\Videregående Programmering\\Programmer\\Uge 3\\Palindromes\\obj\\",
+      "outputPath": "D:\\Users\\fstee\\OneDrive\\Smartlearning\\Videregående Programmering\\Programmer\\Uge 5\\Dice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
