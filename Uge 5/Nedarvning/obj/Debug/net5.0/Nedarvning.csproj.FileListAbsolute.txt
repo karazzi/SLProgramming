@@ -1,0 +1,16 @@
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\Nedarvning.exe
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\Nedarvning.deps.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\Nedarvning.runtimeconfig.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\Nedarvning.runtimeconfig.dev.json
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\Nedarvning.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\ref\Nedarvning.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\bin\Debug\net5.0\Nedarvning.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.csproj.AssemblyReference.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.AssemblyInfoInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.AssemblyInfo.cs
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.csproj.CoreCompileInputs.cache
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\ref\Nedarvning.dll
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.pdb
+D:\Users\fstee\OneDrive\Smartlearning\Videregående Programmering\Programmer\Uge 5\Nedarvning\obj\Debug\net5.0\Nedarvning.genruntimeconfig.cache
