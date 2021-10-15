@@ -11,6 +11,8 @@ namespace Figurer.Models
         public int Height { get; set; }
         public int Width { get; set; }
 
+        
+
         protected Shape(int height, int width)
         {
             Height = height;

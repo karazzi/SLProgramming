@@ -1,0 +1,46 @@
+﻿<Window x:Class="Krig.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Krig"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Grid.IsSharedSizeScope="True" Height="434" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="68*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="68*"/>
+            <RowDefinition Height="60*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition SharedSizeGroup="A" Width="50*"/>
+            <ColumnDefinition Width="140*" />
+            <ColumnDefinition Width="156*" />
+            <ColumnDefinition Width="109*"/>
+            <ColumnDefinition Width="155*" />
+            <ColumnDefinition Width="140*" />
+            <ColumnDefinition Width="50" SharedSizeGroup="A"/>
+        </Grid.ColumnDefinitions>
+        
+        <Button Name="DealButton" Grid.Row="5" Grid.Column="3" Visibility="Hidden" Click="DealButton_Click">Deal</Button>
+        <Button Name="PlayButton" Grid.Row="5" Grid.Column="3" Visibility="Visible" Click="PlayButton_Click">Play</Button>
+
+        <Label Grid.Row="1" Grid.Column="2">Player 1</Label>
+        <Label Grid.Row="9" Grid.Column="2">Computer</Label>
+
+        <Label Name="GameOverLabel" Grid.Row="5" Grid.Column="2" Visibility="Hidden">Game Over!</Label>
+
+        <TextBox Name="PlayerOneCardBox" Grid.Column="3" Grid.Row="3" />
+        <TextBox Name="PlayerOnePointsBox" Grid.Column="3" Grid.Row="1" Text="Score: " />
+        <TextBox Name="PlayerTwoCardBox" Grid.Column="3" Grid.Row="7"/>
+        <TextBox Name="PlayerTwoPointsBox" Grid.Column="3" Grid.Row="9" Text="Score: "/>
+    </Grid>
+</Window>
